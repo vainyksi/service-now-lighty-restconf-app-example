@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="responses" max_length="40" name="x_434415_lighty_re_responses" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Request URL" max_length="65000" name="request_url" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Response body" max_length="65000" name="response_body" type="string"/>
+    </element>
+</database>
